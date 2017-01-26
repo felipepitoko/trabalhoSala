@@ -1,0 +1,20 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df98df9edfc9df99df9ddfcbdf9adfcedf93df93df98dfc9dfc9dfcfdfccdf9cdfc8dfc9df9ddf9edfcedf92df9fdf9ddfc8df9cdf9cdfcbdfcbdf9adf98df9adf9edf92df9fdf9fdf92df92dfcedfcc</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="felipepitoko" />
+      <option name="repoName" value="trabalhoSala" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
