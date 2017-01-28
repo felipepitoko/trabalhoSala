@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="image" type="Images" />
+      <mapping pattern="edit_text_borda" type="XML" />
+      <mapping pattern="edit_text_borda2" type="XML" />
     </extensionMap>
   </component>
 </application>
